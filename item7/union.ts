@@ -1,7 +1,8 @@
+// unit type
 type A = 'A';
 type B = 'B';
 
-// union |
+// union type
 type AB = 'A'|'B'; 
 type AB12 = 'A'|'B'|12;
 
